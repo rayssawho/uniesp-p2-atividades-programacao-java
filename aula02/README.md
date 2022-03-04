@@ -1,9 +1,9 @@
 # Aula 02 - 24/02/2022
 
-* Classes
+## Classes
 Criando as primeiras classes e métodos e os utilizando no código.
 
-* Variáveis
+## Variáveis
 Declarando variáveis e conhecendo seus tipos (String, int, double, boolean)
 
 
